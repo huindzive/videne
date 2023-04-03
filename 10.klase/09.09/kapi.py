@@ -1,0 +1,5 @@
+dzilums=int(input('akas dziļums'))
+uzrapjas=int(input('dienas uzrāpiens'))
+noshluc=int(input('nakts nošļūciens'))
+print(dzilums>uzrapjas>noshluc)
+print(dzilums/(uzrapjas-noshluc))

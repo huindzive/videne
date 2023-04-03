@@ -1,0 +1,2 @@
+ievad = int(input("'skaitlis"))
+

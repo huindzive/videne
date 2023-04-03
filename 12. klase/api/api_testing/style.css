@@ -1,0 +1,19 @@
+.inputs{
+    width:400px;
+    background-color: pink;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.inputs *{
+    margin:10px;
+}
+
+body{
+    text-align: center;
+    background-color: violet;
+    margin: 0;
+}
+.imputs p{
+    height: 10px;
+}

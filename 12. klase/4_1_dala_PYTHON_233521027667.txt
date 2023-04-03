@@ -1,0 +1,13 @@
+import requests
+response = requests.get("http://universities.hipolabs.com/search?country=Latvia")
+schools = response.json()
+
+print(schools[0])
+def sortParameter(e):
+    return e["name"]
+
+schools.sort(key=sortParameter)
+
+for school in schools:
+    if school["domains"][0] == "mit.edu":
+        print(school["name"])

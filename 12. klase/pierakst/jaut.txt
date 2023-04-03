@@ -1,0 +1,39 @@
+algoritmns - notiektu darbību secība uzdevuma izpildei
+apakšprogramma - patstāvīga programma kas strādā lielākā programmā
+kas ir crud datu bāzē =raksturo visas darbības ko var izdarīt 
+
+pamata veida atlasīšanai iekš css = klase, elements, id
+raksturo css sintaksi = selektors, un iekšā iekavām tiek rakstīts īpašivu un vērtību pāris
+o {
+    property: value
+}
+
+deklarēšana = maninīgā ieviešana
+dokumentācija = palīgrīks koda sintaksei pielietojuma apraksts
+inicializēšana = sākotnējās vērtības pieškiršana
+inkapsulācija = ierobežošana datu piekļūvei
+inner join = divu tabulu savienošana ar kāda kopīgā sakrišanu
+int = datu tips, kas raksturo veselus skaitļus
+klase = datu struktura kas satur mainīgos un fukcijas
+objekts = viena instance, kas atbilst datu stuktūrai
+kompilātors = parveido mašīnkodā
+kādas programmēšanas valodas kompelējamas(c++) un kādas interpretējamas(python, javascript)
+konstruktors = funkcija kas iedod objektam sākotnējas funkcijas
+mainīgais = simbolu virkne
+pirmkods = programmas kods kas ir saprotams cilvēkam
+PPS= programmatūras prasību specifikācija, izmanto izstrādei 
+primary key = piešķir elenmenta īpatnība
+programma = instrukcija datoram
+sazarojus = nosacījums kodā, kurš var izpildīt vai neizpildīt daļu no programmas
+
+vaicājums = select darbība = datu  pieprasījums no datu bāzes
+
+Mainīgias = simbols vai simbolu virkne, kuru var mainīt programmas izpildes gaitā
+
+cikls = operāciju secība kas atkārtojas
+
+mākoņpakalpojumi = globālā tīmekļa pakalpojumi, kuri ir pieejami ikvienam bez nepieciešamības iegādāties serveri
+
+kas ir Git = git ir bezmaksas programmatūra, kura palīdz izsekot un saglabāt failus iekš GitHub.com un citām mājaslapām
+
+datu validācija = ievaddatu pārbaude lai tie atbilstu kādiem kritērijiem

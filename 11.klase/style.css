@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    height: 100vh;
+}
+
+h1{
+    background-color: red;
+}
+
+@media only screen and (min-width: 700px){
+    div.nav{
+        background-color: rebeccapurple;
+    }
+}
+
+.content{
+    padding: 15px;
+    background-color: darkgrey;
+}
+
+.page{
+    height:100%;
+}
+.nav{
+    min-width: 50%;
+    padding-top: 60px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: 15px;
+    background-color: cadetblue;
+}
+
+.nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px 30px;
+    background-color: royalblue;
+    border-radius: 15%;
+    margin-top: 10px;
+}
+
+.nav a:hover{
+    background-color: chocolate;
+    transition: background-color 0.5s ease;
+}
+
+.hover:hover + span{
+    display: inline-block;
+    position: relative;
+    top: -12px;
+    left: -48px;
+}
+
+.tooltip{
+    display: none;
+    background-color: darkgray;
+}
+
+.page{
+    display: flex;
+}
+
+a:active{
+    color: rgb(255, 255, 255);
+}

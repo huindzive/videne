@@ -1,0 +1,4 @@
+inkapsulācija = nelāut tiewši piekļūt kādiem datiem
+abstrakcija = ārpus klases neļauj piekļūt funkcijām,kas lietotājam nav svarīgas
+mantošana = paņemšana un sasaistīšana no citas klases
+polimorfisms = līdzīgs manošanai, šis veids ir tiešāks

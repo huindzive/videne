@@ -1,0 +1,10 @@
+Mainīgias = simbols vai simbolu virkne, kuru var mainīt programmas izpildes gaitā
+
+cikls = operāciju secība kas atkārtojas
+
+mākoņpakalpojumi = globālā tīmekļa pakalpojumi, kuri ir pieejami ikvienam bez nepieciešamības iegādāties serveri
+
+kas ir Git = git ir bezmaksas programmatūra, kura palīdz izsekot un saglabāt failus iekš GitHub.com un citām mājaslapām
+
+datu validācija = ievaddatu pārbaude lai tie atbilstu kādiem kritērijiem
+

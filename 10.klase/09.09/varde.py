@@ -1,0 +1,5 @@
+lidaka=int(input('Ievadi līdaku skaitu'))
+karpas=int(input('Ievada karpu skaitu'))
+vardes=int(input('Ievad vardes skaitu'))
+print(lidaka+karpas)
+print(lidaka+karpas-vardes)
