@@ -112,7 +112,7 @@ class create:
     
     def generate(self):
         self.fillGrid()
-        for _ in range(15):
+        for _ in range(40):
             row = randint(0,8)
             col = randint(0,8)
             while self.grid[row][col]==0:

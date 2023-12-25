@@ -20,7 +20,7 @@ ada.shape('turtle')
 ada.penup()
 ada.goto(-160,100)
 ada.pendown()
-  
+
 bob=Turtle()
 bob.color('green')
 bob.shape('turtle')
